@@ -1,6 +1,6 @@
 annotated-types==0.7.0
 anyio==4.9.0
-bergamot=0.4.5
+bergamot==0.4.5
 certifi==2025.6.15
 charset-normalizer==3.4.2
 click==8.2.1
