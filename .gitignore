@@ -1,0 +1,12 @@
+.idea
+.vercel
+.env*.local
+.ruff_cache
+.roo
+.env
+__pycache__
+.pytest_cache
+download/*
+video.db
+tests
+.venv
