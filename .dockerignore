@@ -1,0 +1,14 @@
+.idea
+.vercel
+.env*.local
+.ruff_cache
+.roo
+.env
+__pycache__
+.pytest_cache
+download/*
+video.db
+tests
+.venv
+models/faster-whisper-tiny
+models/sherpa-onnx-zipformer-ja-reazonspeech-2024-08-01
